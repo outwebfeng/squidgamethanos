@@ -6,11 +6,6 @@ export default function SeoScript() {
     <>
       <Script strategy='afterInteractive' src={`https://www.googletagmanager.com/gtag/js?id=${GOOGLE_TRACKING_ID}`} />
       <Script
-        strategy='afterInteractive'
-        src='https://www.perpetualcalendar.top/js/script.js'
-        data-domain='holocure.fun'
-      />
-      <Script
         id='gtag-init'
         strategy='afterInteractive'
         dangerouslySetInnerHTML={{
