@@ -1,6 +1,5 @@
 'use client';
 
-import Image from 'next/image';
 import dynamic from 'next/dynamic';
 
 const ScrollToTop = dynamic(() => import('@/components/page/ScrollToTop'), { ssr: false });
@@ -76,11 +75,11 @@ export default function HomeContent({ translations }: HomeContentProps) {
           </div>
           <div className='w-full aspect-[16/9] rounded-lg overflow-hidden shadow-lg'>
             <iframe 
-              src="https://games.crazygames.com/en_US/squid-game-online/index.html?v=1.316"
-              title="Squid Game Online"
-              className="w-full h-full border-0"
-              loading="lazy"
-              sandbox="allow-scripts allow-same-origin allow-popups allow-forms"
+              src='https://games.crazygames.com/en_US/squid-game-online/index.html?v=1.316'
+              title='Squid Game Online'
+              className='w-full h-full border-0'
+              loading='lazy'
+              sandbox='allow-scripts allow-same-origin allow-popups allow-forms'
               allowFullScreen
             />
           </div>
