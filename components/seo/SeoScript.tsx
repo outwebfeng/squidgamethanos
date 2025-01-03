@@ -5,6 +5,7 @@ export default function SeoScript() {
   return (
     <>
       <Script strategy='afterInteractive' src={`https://www.googletagmanager.com/gtag/js?id=${GOOGLE_TRACKING_ID}`} />
+      <script defer data-domain="squidgamethanos.com" src="https://app.pageview.app/js/script.js"></script>
       <Script
         id='gtag-init'
         strategy='afterInteractive'
