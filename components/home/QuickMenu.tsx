@@ -13,9 +13,13 @@ export default function QuickMenu() {
     { id: 'features', label: 'features' },
     { id: 'testimonials', label: 'testimonials' },
     { id: 'faq', label: 'faq' },
+    { id: 'about', label: 'about', href: '/about' },
   ];
 
-  const scrollToSection = (e: React.MouseEvent<HTMLAnchorElement>, id: string) => {
+  const scrollToSection = (e: React.MouseEvent<HTMLAnchorElement>, id: string, href?: string) => {
+    if (href) {
+      return;
+    }
     e.preventDefault();
     const element = document.getElementById(id);
     if (element) {
@@ -68,8 +72,8 @@ export default function QuickMenu() {
         {menuItems.map((item) => (
           <a
             key={item.id}
-            href={`#${item.id}`}
-            onClick={(e) => scrollToSection(e, item.id)}
+            href={item.href || `#${item.id}`}
+            onClick={(e) => scrollToSection(e, item.id, item.href)}
             className='rounded-md px-3 py-2 text-sm font-medium text-gray-700 transition-colors duration-200 ease-in-out hover:bg-sky-100 hover:text-[rgb(54,198,255)]'
           >
             {t(item.label)}
@@ -94,8 +98,8 @@ export default function QuickMenu() {
             {menuItems.map((item) => (
               <a
                 key={item.id}
-                href={`#${item.id}`}
-                onClick={(e) => scrollToSection(e, item.id)}
+                href={item.href || `#${item.id}`}
+                onClick={(e) => scrollToSection(e, item.id, item.href)}
                 className='block px-4 py-2 text-sm text-gray-700 hover:bg-sky-100 hover:text-[rgb(54,198,255)]'
               >
                 {t(item.label)}

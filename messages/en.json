@@ -18,7 +18,8 @@
     "introduction": "How to Play",
     "testimonials": "Reviews",
     "faq": "FAQ",
-    "toggleMenu": "Toggle menu"
+    "toggleMenu": "Toggle menu",
+    "about": "About"
   },
   "NotFound": {
     "title": "404 Not Found",

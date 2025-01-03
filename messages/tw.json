@@ -18,7 +18,8 @@
     "introduction": "如何遊玩",
     "testimonials": "玩家評價",
     "faq": "常見問題",
-    "toggleMenu": "切換選單"
+    "toggleMenu": "切換選單",
+    "about": "關於"
   },
   "NotFound": {
     "title": "404 找不到頁面",

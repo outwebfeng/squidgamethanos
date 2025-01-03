@@ -18,7 +18,8 @@
     "introduction": "Comment jouer",
     "testimonials": "Avis",
     "faq": "FAQ",
-    "toggleMenu": "Menu"
+    "toggleMenu": "Menu",
+    "about": "À propos"
   },
   "NotFound": {
     "title": "404 Non trouvé",

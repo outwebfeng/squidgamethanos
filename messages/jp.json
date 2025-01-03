@@ -18,7 +18,8 @@
     "introduction": "ゲームの遊び方",
     "testimonials": "レビュー",
     "faq": "よくある質問",
-    "toggleMenu": "メニューを切り替える"
+    "toggleMenu": "メニューを切り替える",
+    "about": "について"
   },
   "NotFound": {
     "title": "404 見つかりません",
