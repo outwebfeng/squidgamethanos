@@ -1,0 +1,181 @@
+{
+  "Common": {
+    "loading": "cargando..."
+  },
+  "Metadata": {
+    "home": {
+      "title": "Squid Game Thanos - Juega al Juego de Supervivencia Definitivo en Línea",
+      "description": "Únete a Squid Game Thanos para emocionantes desafíos de supervivencia. Lucha en juegos épicos inspirados en Squid Game Thanos y Thanos de Marvel. ¡Juega en línea ahora y domina la tabla de líderes!",
+      "keywords": ""
+    }
+  },
+  "Navigation": {
+    "title": "Squid Game Thanos - Juega al Juego de Supervivencia Definitivo en Línea",
+    "logoAlt": "Logo de Squid Game Thanos",
+    "logoTitle": "Squid Game Thanos",
+    "playNow": "Jugar Ahora",
+    "features": "Características",
+    "introduction": "Cómo Jugar",
+    "testimonials": "Reseñas",
+    "faq": "Preguntas Frecuentes",
+    "toggleMenu": "Alternar menú"
+  },
+  "NotFound": {
+    "title": "404 No Encontrado",
+    "goHome": "ir a inicio"
+  },
+  "Home": {
+    "hero": {
+      "title": "Squid Game Thanos",
+      "subtitle": "Únete a Squid Game Thanos para emocionantes desafíos de supervivencia.",
+      "description": "Lucha en juegos épicos inspirados en Squid Game Thanos y Thanos de Marvel. ¡Juega en línea ahora y domina la tabla de líderes!",
+      "playNow": "Jugar Ahora",
+      "gameFrame": {
+        "url": "https://games.crazygames.com/en_US/squid-game-online/index.html?v=1.316",
+        "title": "Jugar a Squid Game Thanos en Línea",
+        "loading": "Cargando juego...",
+        "width": "100%",
+        "height": "600px",
+        "allowFullscreen": true
+      }
+    },
+    "introduction": {
+      "title": "Cómo Jugar",
+      "description": "¡Domina lo básico y conviértete en un experto!",
+      "steps": [
+        {
+          "title": "Elige Tu Región",
+          "description": "Selecciona tu región para unirte a una sala de juego con jugadores cercanos a ti"
+        },
+        {
+          "title": "Ingresa Tu Apodo",
+          "description": "Crea tu identidad única en el juego"
+        },
+        {
+          "title": "Únete al Juego",
+          "description": "Haz clic en unirte y prepárate para Luz Roja, Luz Verde: ¡avanza hacia la muñeca sin ser visto!"
+        }
+      ]
+    },
+    "features": {
+      "title": "Características del Juego",
+      "description": "Descubre qué hace especial a Squid Game Thanos",
+      "list": [
+        {
+          "title": "Desafíos Diversos",
+          "description": "Participa en una variedad de mini-juegos inspirados en 'Squid Game Thanos' y el universo Marvel, diseñados para poner a prueba tus reflejos, estrategia y resistencia."
+        },
+        {
+          "title": "Modo Multijugador",
+          "description": "Compite contra jugadores de todo el mundo en partidas de supervivencia en tiempo real, formando alianzas o rivalidades según lo desees."
+        },
+        {
+          "title": "Integración de Personajes Únicos",
+          "description": "Experimenta el juego desde la perspectiva de Thanos, agregando un giro distintivo al género tradicional de juegos de supervivencia."
+        }
+      ]
+    },
+    "testimonials": {
+      "title": "Reseñas de Jugadores",
+      "description": "Mira lo que los fans están diciendo sobre Squid Game Thanos",
+      "list": [
+        {
+          "content": "Una combinación emocionante de tensión de 'Squid Game Thanos' y la emoción de Marvel. ¡Imprescindible!",
+          "author": "Fan de VTuber"
+        },
+        {
+          "content": "La integración de Thanos agrega un giro único al género de juegos de supervivencia. Altamente recomendado.",
+          "author": "Entusiasta de Roguelike"
+        },
+        {
+          "content": "Desafiante, atractivo e increíblemente divertido. ¡No puedo dejar de jugar!",
+          "author": "Comunidad Gamer"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes",
+      "description": "¿Tienes preguntas? ¡Tenemos respuestas!",
+      "list": [
+        {
+          "question": "¿Quién es Thanos en el contexto de Squid Game Thanos?",
+          "answer": "En la temporada 2 de 'Squid Game Thanos', Thanos es un personaje interpretado por Choi Seung-hyun, también conocido como T.O.P de la banda K-pop BigBang. Thanos es representado como un rapero errático con cabello morado que participa en los juegos mortales."
+        },
+        {
+          "question": "¿Cuál es el objetivo de Squid Game Thanos?",
+          "answer": "Squid Game Thanos es un juego de supervivencia multijugador en línea que combina elementos de la serie 'Squid Game Thanos' y el universo Marvel. Los jugadores compiten en varios desafíos inspirados en ambas franquicias, con el objetivo de ser el último en pie."
+        },
+        {
+          "question": "¿Cómo puedo comenzar a jugar Squid Game Thanos?",
+          "answer": "Para comenzar a jugar, visita nuestro sitio web, crea una cuenta o juega como invitado, y selecciona la opción 'Jugar Juego'. Serás emparejado con otros jugadores para competir en una serie de desafíos."
+        },
+        {
+          "question": "¿Es Squid Game Thanos gratuito para jugar?",
+          "answer": "Sí, Squid Game Thanos es gratuito para jugar. Sin embargo, hay compras dentro del juego disponibles para artículos cosméticos y otras mejoras."
+        },
+        {
+          "question": "¿Puedo jugar Squid Game Thanos con amigos?",
+          "answer": "¡Absolutamente! Puedes invitar a amigos para que se unan a la misma sala de juego y compitan juntos en varios desafíos."
+        },
+        {
+          "question": "¿Cuáles son los requisitos del sistema para Squid Game Thanos?",
+          "answer": "Squid Game Thanos es un juego basado en navegador. Para un rendimiento óptimo, recomendamos usar un navegador web actualizado en una computadora de escritorio o portátil con una conexión a internet estable."
+        },
+        {
+          "question": "¿Hay tablas de clasificación en Squid Game Thanos?",
+          "answer": "Sí, el juego cuenta con tablas de clasificación globales que rastrean victorias, logros y puntajes, permitiéndote ver cómo te posicionas frente a otros jugadores de todo el mundo."
+        },
+        {
+          "question": "¿Con qué frecuencia se actualiza Squid Game Thanos?",
+          "answer": "Actualizamos regularmente el juego con nuevo contenido, modos de juego y características para mantener la experiencia fresca y atractiva para nuestros jugadores."
+        },
+        {
+          "question": "¿Hay alguna restricción de edad para jugar Squid Game Thanos?",
+          "answer": "Debido al contenido del juego, se recomienda para jugadores de 16 años en adelante."
+        },
+        {
+          "question": "¿Cómo puedo reportar un error o problema en el juego?",
+          "answer": "Si encuentras algún problema o error, por favor contacta a nuestro equipo de soporte a través de la sección 'Contáctanos' en nuestro sitio web, proporcionando información detallada sobre el problema."
+        }
+      ]
+    }
+  },
+  "Footer": {
+    "title": "Squid Game Thanos",
+    "subTitle": "Únete a Squid Game Thanos para emocionantes desafíos de supervivencia.",
+    "support": "Soporte",
+    "privacy": "Política de Privacidad",
+    "termsConditions": "Términos y Condiciones"
+  },
+  "FooterNavigation": {
+    "privacyPolicy": {
+      "1-h1": "Política de Privacidad de Squid Game Thanos",
+      "1-p": "Squid Game Thanos opera el sitio web https://squidgamethanos.com y está comprometido con la protección de tu privacidad. Esta política de privacidad describe cómo manejamos la información cuando utilizas nuestro juego en línea.",
+      "2-h2": "Recopilación de Información",
+      "2-h3-1": "Datos Personales",
+      "2-p-1": "No recopilamos ningún dato de identificación personal de los usuarios. Nuestro servicio está diseñado para ser utilizado sin requerir datos personales.",
+      "2-h3-2": "Datos No Personales",
+      "2-p-3": "Recopilamos datos no personales mediante cookies web, incluyendo estadísticas de uso y preferencias, para mejorar nuestro servicio y la experiencia del usuario. Esto puede incluir configuraciones de pantalla y preferencias de personalización.",
+      "3-h2": "Uso de los Datos",
+      "3-p": "Cualquier dato no personal recopilado se utiliza exclusivamente para mejorar la funcionalidad de nuestro juego y la experiencia del usuario. No compartimos ningún dato con terceros.",
+      "4-h2": "Actualizaciones de Esta Política de Privacidad",
+      "6-h2": "Contáctanos",
+      "6-p": "Si tienes alguna pregunta sobre esta Política de Privacidad, por favor contáctanos a support@squidgamethanos.com."
+    },
+    "termsConditions": {
+      "1-h1": "Términos de Servicio de Squid Game Thanos",
+      "1-p": "Bienvenido a Squid Game Thanos. Al acceder a nuestro sitio web (https://squidgamethanos.com), aceptas estos Términos de Servicio. Nuestro servicio ofrece un juego de supervivencia multijugador en línea.",
+      "2-h2": "1. Propiedad",
+      "2-p": "Todo el contenido en el sitio web, incluyendo el juego, los elementos de diseño y los materiales relacionados, es propiedad intelectual de Squid Game Thanos, a menos que se indique lo contrario. El contenido textual creado por los usuarios sigue siendo propiedad de los mismos.",
+      "3-h2": "2. Directrices de Uso",
+      "3-p": "Nuestro servicio se proporciona para jugar juegos multijugador en línea. Los usuarios son responsables de su conducta y no deben usar el servicio para fines ilegales o perjudiciales.",
+      "4-h2": "3. Ley Aplicable",
+      "4-p": "Estos Términos se regirán por las leyes aplicables, sin tener en cuenta los principios de conflicto de leyes.",
+      "5-h2": "4. Cambios en los Términos",
+      "5-p": "Squid Game Thanos se reserva el derecho de modificar estos Términos en cualquier momento. Los cambios serán efectivos inmediatamente después de su publicación en el sitio web. El uso continuado del servicio constituye la aceptación de cualquier cambio.",
+      "6-h2": "5. Información de Contacto",
+      "6-p": "Si tienes alguna pregunta sobre estos Términos, por favor contáctanos a support@squidgamethanos.com.",
+      "last-p": "Al usar Squid Game Thanos, reconoces que has leído y aceptas estos Términos de Servicio."
+    }
+  }
+}

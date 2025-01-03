@@ -1,0 +1,181 @@
+{
+  "Common": {
+    "loading": "載入中..."
+  },
+  "Metadata": {
+    "home": {
+      "title": "Squid Game Thanos - 玩最終生存遊戲",
+      "description": "加入Squid Game Thanos，挑戰刺激的生存遊戲。參加以Squid Game Thanos和Marvel的Thanos為靈感的史詩挑戰，現在就來玩，征服排行榜！",
+      "keywords": ""
+    }
+  },
+  "Navigation": {
+    "title": "Squid Game Thanos - 玩最終生存遊戲",
+    "logoAlt": "Squid Game Thanos 標誌",
+    "logoTitle": "Squid Game Thanos",
+    "playNow": "立即遊玩",
+    "features": "特色",
+    "introduction": "如何遊玩",
+    "testimonials": "玩家評價",
+    "faq": "常見問題",
+    "toggleMenu": "切換選單"
+  },
+  "NotFound": {
+    "title": "404 找不到頁面",
+    "goHome": "回首頁"
+  },
+  "Home": {
+    "hero": {
+      "title": "Squid Game Thanos",
+      "subtitle": "加入Squid Game Thanos，挑戰刺激的生存遊戲。",
+      "description": "參加以Squid Game Thanos和Marvel的Thanos為靈感的史詩挑戰，現在就來玩，征服排行榜！",
+      "playNow": "立即遊玩",
+      "gameFrame": {
+        "url": "https://games.crazygames.com/en_US/squid-game-online/index.html?v=1.316",
+        "title": "在線玩Squid Game Thanos",
+        "loading": "遊戲載入中...",
+        "width": "100%",
+        "height": "600px",
+        "allowFullscreen": true
+      }
+    },
+    "introduction": {
+      "title": "如何遊玩",
+      "description": "掌握基本技巧，成為遊戲高手！",
+      "steps": [
+        {
+          "title": "選擇你的區域",
+          "description": "選擇你的區域，與附近的玩家組隊"
+        },
+        {
+          "title": "輸入你的暱稱",
+          "description": "創建一個獨特的身份"
+        },
+        {
+          "title": "加入遊戲",
+          "description": "點擊加入，準備迎接紅燈、綠燈 - 偷偷地向玩偶移動，不能被發現！"
+        }
+      ]
+    },
+    "features": {
+      "title": "遊戲特色",
+      "description": "發現Squid Game Thanos的獨特之處",
+      "list": [
+        {
+          "title": "多樣化挑戰",
+          "description": "參加多種由《Squid Game Thanos》和Marvel宇宙啟發的迷你遊戲，考驗你的反應、策略和耐力。"
+        },
+        {
+          "title": "多人模式",
+          "description": "與全球玩家在實時生存競賽中競爭，根據需要結成聯盟或對抗。"
+        },
+        {
+          "title": "獨特角色融合",
+          "description": "從Thanos的視角體驗遊戲，為傳統生存遊戲類型增添獨特的扭轉。"
+        }
+      ]
+    },
+    "testimonials": {
+      "title": "玩家評價",
+      "description": "看看玩家對Squid Game Thanos的評價",
+      "list": [
+        {
+          "content": "一種將《Squid Game Thanos》的緊張感和Marvel的興奮結合在一起的遊戲，絕對必玩！",
+          "author": "VTuber粉絲"
+        },
+        {
+          "content": "Thanos的融入為生存遊戲類型增添了獨特的扭轉，強烈推薦。",
+          "author": "Roguelike愛好者"
+        },
+        {
+          "content": "具有挑戰性、引人入勝、非常有趣。停不下來！",
+          "author": "遊戲社群"
+        }
+      ]
+    },
+    "faq": {
+      "title": "常見問題",
+      "description": "有問題嗎？我們有答案！",
+      "list": [
+        {
+          "question": "在Squid Game Thanos中，Thanos是誰？",
+          "answer": "在《Squid Game Thanos》第二季中，Thanos是由Choi Seung-hyun飾演的角色，他也是K-pop樂隊BigBang的T.O.P。Thanos被描繪成一位古怪的饒舌歌手，擁有紫色頭髮，參加這場致命的遊戲。"
+        },
+        {
+          "question": "Squid Game Thanos的目標是什麼？",
+          "answer": "Squid Game Thanos是一款在線多人生存遊戲，結合了《Squid Game Thanos》系列和Marvel宇宙的元素。玩家將參與各種挑戰，爭取成為最後一個存活下來的人。"
+        },
+        {
+          "question": "我怎麼開始玩Squid Game Thanos？",
+          "answer": "要開始遊玩，請訪問我們的網站，創建帳戶或以遊客身份登錄，然後選擇'開始遊戲'選項。你將與其他玩家配對，一同競爭挑戰。"
+        },
+        {
+          "question": "Squid Game Thanos可以免費玩嗎？",
+          "answer": "是的，Squid Game Thanos是免費遊玩的。不過，遊戲中有可選的內購項目，提供裝飾性物品和其他增強功能。"
+        },
+        {
+          "question": "我可以與朋友一起玩Squid Game Thanos嗎？",
+          "answer": "當然可以！你可以邀請朋友一起加入同一個遊戲房間，並在各種挑戰中一同競爭。"
+        },
+        {
+          "question": "Squid Game Thanos的系統要求是什麼？",
+          "answer": "Squid Game Thanos是一款基於瀏覽器的遊戲，為了達到最佳效能，我們建議使用更新版本的網頁瀏覽器，並保持穩定的網路連接。"
+        },
+        {
+          "question": "Squid Game Thanos有排行榜嗎？",
+          "answer": "有的，遊戲設有全球排行榜，追蹤勝利、成就和分數，讓你可以看到自己在全球玩家中的排名。"
+        },
+        {
+          "question": "Squid Game Thanos會更新多久一次？",
+          "answer": "我們會定期更新遊戲，新增內容、遊戲模式和功能，保持遊戲新鮮有趣。"
+        },
+        {
+          "question": "玩Squid Game Thanos有年齡限制嗎？",
+          "answer": "由於遊戲內容，我們建議玩家年齡16歲及以上。"
+        },
+        {
+          "question": "我如何報告遊戲中的錯誤或問題？",
+          "answer": "如果你遇到任何問題或錯誤，請通過我們網站上的'聯繫我們'部分聯繫我們的支持團隊，並提供問題的詳細信息。"
+        }
+      ]
+    }
+  },
+  "Footer": {
+    "title": "Squid Game Thanos",
+    "subTitle": "加入Squid Game Thanos，挑戰刺激的生存遊戲。",
+    "support": "支持",
+    "privacy": "隱私政策",
+    "termsConditions": "服務條款"
+  },
+  "FooterNavigation": {
+    "privacyPolicy": {
+      "1-h1": "Squid Game Thanos 隱私政策",
+      "1-p": "Squid Game Thanos 經營網站 https://squidgamethanos.com 並致力於保護您的隱私。本隱私政策說明了當您使用我們的在線遊戲時，我們如何處理您的信息。",
+      "2-h2": "信息收集",
+      "2-h3-1": "個人資料",
+      "2-p-1": "我們不會收集任何來自用戶的個人識別信息。我們的服務設計為不需要個人資料即可使用。",
+      "2-h3-2": "非個人資料",
+      "2-p-3": "我們通過網站 cookies 收集非個人資料，包括使用統計和偏好設置，以改進我們的服務和用戶體驗。這可能包括您的顯示設置和自訂偏好。",
+      "3-h2": "數據使用",
+      "3-p": "任何收集的非個人資料僅用於提升我們遊戲的功能性並改善用戶體驗。我們不會將任何資料與第三方共享。",
+      "4-h2": "隱私政策更新",
+      "6-h2": "聯繫我們",
+      "6-p": "如果您對本隱私政策有任何疑問，請通過 support@squidgamethanos.com 與我們聯繫。"
+    },
+    "termsConditions": {
+      "1-h1": "Squid Game Thanos 服務條款",
+      "1-p": "歡迎來到 Squid Game Thanos。通過訪問我們的網站（https://squidgamethanos.com），您同意這些服務條款。我們的服務提供在線多人競技生存遊戲。",
+      "2-h2": "1. 所有權",
+      "2-p": "網站上的所有內容，包括遊戲、設計元素和相關材料，除非另有說明，否則均為 Squid Game Thanos 的知識產權。用戶創建的文字內容仍為用戶所有。",
+      "3-h2": "2. 使用指南",
+      "3-p": "我們的服務是用來進行在線多人遊戲的。用戶需對自己的行為負責，並且不應將服務用於任何非法或有害的目的。",
+      "4-h2": "3. 管轄法律",
+      "4-p": "這些條款應受適用法律管轄，並不考慮法律沖突的原則。",
+      "5-h2": "4. 條款更改",
+      "5-p": "Squid Game Thanos 保留隨時修改這些條款的權利。更改將在網站上發布後立即生效。您繼續使用服務即表示接受任何更改。",
+      "6-h2": "5. 聯繫信息",
+      "6-p": "如果您對這些條款有任何疑問，請通過 support@squidgamethanos.com 與我們聯繫。",
+      "last-p": "通過使用 Squid Game Thanos，您確認已閱讀並同意這些服務條款。"
+    }
+  }
+}

@@ -1,0 +1,151 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 198 79% 61%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 198 79% 61%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 198 79% 61%;
+
+    --primary: 198 79% 61%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 198 79% 95%;
+    --secondary-foreground: 198 79% 61%;
+
+    --muted: 198 79% 95%;
+    --muted-foreground: 198 30% 60%;
+
+    --accent: 198 79% 95%;
+    --accent-foreground: 198 79% 61%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 198 79% 90%;
+    --input: 198 79% 90%;
+    --ring: 198 79% 61%;
+
+    --radius: 0.5rem;
+  }
+
+  .dark {
+    --background: 198 79% 10%;
+    --foreground: 198 79% 95%;
+
+    --card: 198 79% 10%;
+    --card-foreground: 198 79% 95%;
+
+    --popover: 198 79% 10%;
+    --popover-foreground: 198 79% 95%;
+
+    --primary: 198 79% 61%;
+    --primary-foreground: 198 79% 10%;
+
+    --secondary: 198 79% 20%;
+    --secondary-foreground: 198 79% 95%;
+
+    --muted: 198 79% 20%;
+    --muted-foreground: 198 79% 70%;
+
+    --accent: 198 79% 20%;
+    --accent-foreground: 198 79% 95%;
+
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 198 79% 95%;
+
+    --border: 198 79% 20%;
+    --input: 198 79% 20%;
+    --ring: 198 79% 70%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+@layer utilities {
+  .flex-center {
+    @apply flex items-center justify-center;
+  }
+
+  .flex-y-center {
+    @apply flex flex-col items-center;
+  }
+
+  .bg-frosted-glass {
+    @apply backdrop-blur-lg backdrop-filter;
+  }
+
+  /* Chrome, Safari and Opera */
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+
+  .no-scrollbar {
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none; /* Firefox */
+  }
+}
+
+.tr-rounded {
+  clip-path: xywh(0 0 100% 100% round 4px);
+}
+
+@keyframes marquee {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+
+.marquee-content {
+  display: inline-block;
+  white-space: nowrap;
+}
+
+/* 确保文字不会被压缩 */
+.marquee-content span {
+  display: inline-block;
+  white-space: nowrap;
+}
+
+.led-text {
+  background-image: radial-gradient(
+    circle at center,
+    transparent 0%,
+    transparent 45%,
+    rgba(0, 0, 0, 0.2) 45%,
+    rgba(0, 0, 0, 0.2) 50%,
+    transparent 50%
+  );
+  background-size: 0.1em 0.1em;
+  -webkit-background-clip: text;
+  background-clip: text;
+}
+
+.led-effect {
+  animation: flicker 0.1s infinite;
+}
+
+@keyframes flicker {
+  0% {
+    opacity: 0.97;
+  }
+  100% {
+    opacity: 1;
+  }
+}
