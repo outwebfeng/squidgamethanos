@@ -66,11 +66,8 @@ export default function HomeContent({ translations }: HomeContentProps) {
             <h1 className='mb-4 text-4xl font-bold text-[rgb(54,198,255)] sm:text-6xl whitespace-normal'>
               {translations.hero.title}
             </h1>
-            <p className='mb-2 text-2xl font-semibold text-gray-800 sm:text-3xl whitespace-normal'>
-              {translations.hero.subtitle}
-            </p>
             <p className='mb-8 text-lg text-gray-600 whitespace-normal'>
-              {translations.hero.description}
+            {translations.hero.subtitle}{translations.hero.description}
             </p>
           </div>
           <div className='w-full aspect-[16/9] rounded-lg overflow-hidden shadow-lg'>

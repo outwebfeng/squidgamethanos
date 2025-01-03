@@ -2,10 +2,13 @@
 
 import { useEffect, useState } from 'react';
 import { useTranslations } from 'next-intl';
+import { usePathname, useRouter } from 'next/navigation';
 
 export default function QuickMenu() {
   const t = useTranslations('Navigation');
   const [isOpen, setIsOpen] = useState(false);
+  const pathname = usePathname();
+  const router = useRouter();
 
   const menuItems = [
     { id: 'hero', label: 'playNow' },
@@ -16,11 +19,22 @@ export default function QuickMenu() {
     { id: 'about', label: 'about', href: '/about' },
   ];
 
-  const scrollToSection = (e: React.MouseEvent<HTMLAnchorElement>, id: string, href?: string) => {
+  const scrollToSection = async (e: React.MouseEvent<HTMLAnchorElement>, id: string, href?: string) => {
+    e.preventDefault();
+    
     if (href) {
+      router.push(href);
       return;
     }
-    e.preventDefault();
+
+    // 如果不在首页且点击的不是 about 链接，先跳转到首页
+    if (pathname !== '/') {
+      // 跳转到首页并添加hash
+      router.push(`/#${id}`);
+      return;
+    }
+
+    // 在首页时直接滚动
     const element = document.getElementById(id);
     if (element) {
       const navbarHeight = 64;

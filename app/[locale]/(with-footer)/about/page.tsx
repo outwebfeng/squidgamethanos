@@ -1,8 +1,41 @@
 import { unstable_setRequestLocale } from 'next-intl/server';
+import { getTranslations } from 'next-intl/server';
+import { Metadata } from 'next';
 
 type Props = {
   params: { locale: string };
 };
+
+// 生成元数据
+export async function generateMetadata({ params: { locale } }: Props): Promise<Metadata> {
+  const t = await getTranslations('Metadata.about');
+  const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://squidgamethanos.com';
+  
+  // 如果是默认语言(en)，不在 URL 中包含语言代码
+  const canonicalPath = locale === 'en' ? '/about' : `/${locale}/about`;
+  const canonicalUrl = `${baseUrl}${canonicalPath}`;
+
+  return {
+    title: t('title'),
+    description: t('description'),
+    keywords: t('keywords'),
+    alternates: {
+      canonical: canonicalUrl,
+    },
+    openGraph: {
+      title: t('title'),
+      description: t('description'),
+      url: canonicalUrl,
+      siteName: 'Squid Game Thanos',
+      type: 'article',
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: t('title'),
+      description: t('description'),
+    },
+  };
+}
 
 export default function AboutPage({ params: { locale } }: Props) {
   unstable_setRequestLocale(locale);
