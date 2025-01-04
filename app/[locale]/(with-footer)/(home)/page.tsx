@@ -21,6 +21,10 @@ export default async function Page({ params: { locale } }: Props) {
       playNow: t('hero.playNow'),
       gameFrame: t.raw('hero.gameFrame'),
     },
+    videoSection: {
+      title: t('videoSection.title'),
+      description: t('videoSection.description'),
+    },
     introduction: {
       title: t('introduction.title'),
       description: t('introduction.description'),

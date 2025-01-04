@@ -47,6 +47,10 @@
         "allowFullscreen": true
       }
     },
+    "videoSection": {
+      "title": "相關視頻",
+      "description": "觀看啟發本遊戲的電視劇片段"
+    },
     "introduction": {
       "title": "如何遊玩",
       "description": "掌握基本技巧，成為遊戲高手！",

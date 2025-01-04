@@ -47,6 +47,10 @@
         "allowFullscreen": true
       }
     },
+    "videoSection": {
+      "title": "関連動画",
+      "description": "このゲームの元となったテレビドラマのクリップをご覧ください"
+    },
     "introduction": {
       "title": "遊び方",
       "description": "基本をマスターしてプロになろう！",

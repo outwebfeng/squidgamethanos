@@ -1,6 +1,7 @@
 'use client';
 
 import dynamic from 'next/dynamic';
+import YouTubeVideo from '@/components/video/YouTubeVideo';
 
 const ScrollToTop = dynamic(() => import('@/components/page/ScrollToTop'), { ssr: false });
 
@@ -19,6 +20,10 @@ interface HomeContentProps {
         height: string;
         allowFullscreen: boolean;
       };
+    };
+    videoSection: {
+      title: string;
+      description: string;
     };
     introduction: {
       title: string;
@@ -79,6 +84,19 @@ export default function HomeContent({ translations }: HomeContentProps) {
               sandbox='allow-scripts allow-same-origin allow-popups allow-forms'
               allowFullScreen
             />
+          </div>
+        </div>
+      </section>
+
+      {/* Related Video Section */}
+      <section className='bg-white py-16'>
+        <div className='mx-auto max-w-[1200px] px-4 sm:px-6 lg:px-8'>
+          <div className='text-center mb-8'>
+            <h2 className='text-3xl font-bold text-gray-900 mb-4'>{translations.videoSection.title}</h2>
+            <p className='text-lg text-gray-600'>{translations.videoSection.description}</p>
+          </div>
+          <div className='w-full aspect-[16/9] rounded-lg overflow-hidden shadow-lg'>
+            <YouTubeVideo videoId="Ed1sGgHUo88" />
           </div>
         </div>
       </section>

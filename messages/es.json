@@ -47,6 +47,10 @@
         "allowFullscreen": true
       }
     },
+    "videoSection": {
+      "title": "Videos Relacionados",
+      "description": "Mira clips de la serie de televisión que inspiró este juego"
+    },
     "introduction": {
       "title": "Cómo Jugar",
       "description": "¡Domina lo básico y conviértete en un experto!",

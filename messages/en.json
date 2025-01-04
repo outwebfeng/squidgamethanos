@@ -47,6 +47,10 @@
         "allowFullscreen": true
       }
     },
+    "videoSection": {
+      "title": "Related Videos",
+      "description": "Watch clips from the TV series that inspired this game"
+    },
     "introduction": {
       "title": "How to Play",
       "description": "Master the basics and become a pro!",

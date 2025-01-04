@@ -47,6 +47,10 @@
         "allowFullscreen": true
       }
     },
+    "videoSection": {
+      "title": "Vidéos Associées",
+      "description": "Regardez des extraits de la série télévisée qui a inspiré ce jeu"
+    },
     "introduction": {
       "title": "Comment jouer",
       "description": "Maîtrisez les bases et devenez un pro !",
