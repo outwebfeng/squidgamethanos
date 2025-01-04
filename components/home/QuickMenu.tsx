@@ -11,11 +11,7 @@ export default function QuickMenu() {
   const router = useRouter();
 
   const menuItems = [
-    { id: 'hero', label: 'playNow' },
-    { id: 'introduction', label: 'introduction' },
-    { id: 'features', label: 'features' },
-    { id: 'testimonials', label: 'testimonials' },
-    { id: 'faq', label: 'faq' },
+    { id: 'hero', label: 'playNow', href: '/' },
     { id: 'download', label: 'download', href: '/download' },
     { id: 'about', label: 'about', href: '/about' },
   ];

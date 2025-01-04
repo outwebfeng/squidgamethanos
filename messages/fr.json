@@ -12,17 +12,18 @@
       "title": "Télécharger Squid Game Thanos - Le Jeu de Survie Ultime",
       "description": "Téléchargez Squid Game Thanos maintenant et vivez des défis de survie palpitants. Regardez notre vidéo de gameplay et rejoignez des millions de joueurs dans le monde !",
       "keywords": ""
+    },
+    "about": {
+      "title": "À propos de Squid Game Thanos - Découvrez l'Histoire du Jeu",
+      "description": "Plongez dans l'histoire de Squid Game Thanos, ses personnages et sa philosophie de jeu. Découvrez ce jeu unique qui fusionne l'univers de Squid Game avec Marvel.",
+      "keywords": ""
     }
   },
   "Navigation": {
     "title": "Squid Game Thanos - Jouez au jeu de survie ultime en ligne",
     "logoAlt": "Logo Squid Game Thanos",
     "logoTitle": "Squid Game Thanos",
-    "playNow": "Jouer maintenant",
-    "features": "Caractéristiques",
-    "introduction": "Comment jouer",
-    "testimonials": "Avis",
-    "faq": "FAQ",
+    "playNow": "Accueil",
     "toggleMenu": "Menu",
     "about": "À propos",
     "download": "Télécharger"
@@ -212,6 +213,26 @@
           "Internet : Connexion stable requise"
         ]
       }
+    }
+  },
+  "About": {
+    "title": "À propos de Squid Game Thanos",
+    "subtitle": "Histoire du Jeu",
+    "content": {
+      "introductionTitle": "Introduction au Personnage",
+      "introduction": "Dans la deuxième saison de 'Squid Game', Thanos émerge comme un participant remarquable aux jeux mortels. Interprété par Choi Seung-hyun, également connu sous le nom de T.O.P du groupe K-pop BigBang, ce personnage s'écarte de l'archétype habituel du concurrent désespéré.",
+      
+      "characterizationTitle": "Caractérisation et Rôle",
+      "characterization": "Thanos, désigné comme le Joueur 230, se caractérise par ses cheveux violets et son comportement erratique. Contrairement aux autres participants poussés par le désespoir financier, Thanos semble se délecter du chaos des jeux.",
+      
+      "portrayalTitle": "Interprétation de l'Acteur",
+      "portrayal": "L'interprétation de Thanos par Choi Seung-hyun a attiré une attention considérable. Connu pour sa carrière musicale en tant que T.O.P, la transition de Choi vers le jeu d'acteur a été acclamée par la critique.",
+      
+      "impactTitle": "Impact sur la Narration",
+      "impact": "La présence de Thanos introduit une nouvelle couche de tension et d'imprévisibilité. Ses actions et interactions avec d'autres personnages contribuent à l'exploration de la nature humaine dans des circonstances extrêmes.",
+      
+      "conclusionTitle": "Conclusion",
+      "conclusion": "L'introduction de Thanos dans 'Squid Game' illustre l'engagement de la série dans le développement de personnages complexes et une narration captivante. Cette fusion d'un récit dystopique avec un personnage rappelant le Titan de Marvel offre aux spectateurs une expérience unique et provocante."
     }
   }
 }

@@ -12,17 +12,18 @@
       "title": "下載魷魚遊戲薩諾斯 - 體驗終極生存遊戲",
       "description": "立即下載魷魚遊戲薩諾斯，體驗刺激的生存挑戰。觀看遊戲預覽視頻，加入全球數百萬玩家的行列！",
       "keywords": ""
+    },
+    "about": {
+      "title": "關於魷魚遊戲薩諾斯 - 了解遊戲背景故事",
+      "description": "深入了解魷魚遊戲薩諾斯的故事背景、角色設定和遊戲理念。探索這款融合魷魚遊戲與漫威宇宙的獨特遊戲。",
+      "keywords": ""
     }
   },
   "Navigation": {
     "title": "Squid Game Thanos - 玩最終生存遊戲",
     "logoAlt": "Squid Game Thanos 標誌",
     "logoTitle": "Squid Game Thanos",
-    "playNow": "立即遊玩",
-    "features": "特色",
-    "introduction": "如何遊玩",
-    "testimonials": "玩家評價",
-    "faq": "常見問題",
+    "playNow": "首頁",
     "toggleMenu": "切換選單",
     "about": "關於",
     "download": "下載"
@@ -212,6 +213,26 @@
           "網路：需要穩定的網路連接"
         ]
       }
+    }
+  },
+  "About": {
+    "title": "關於魷魚遊戲薩諾斯",
+    "subtitle": "遊戲背景故事",
+    "content": {
+      "introductionTitle": "角色介紹",
+      "introduction": "在《魷魚遊戲薩諾斯》第二季中，薩諾斯是由崔勝鉉（T.O.P）飾演的一位特殊角色。作為K-pop組合BigBang的成員，他為這個角色帶來了獨特的魅力。",
+      
+      "characterizationTitle": "角色塑造",
+      "characterization": "薩諾斯被塑造成一位非傳統的反派角色，擁有紫色頭髮，展現出獨特的個性。他的出現為原本緊張的生存遊戲增添了新的維度。",
+      
+      "portrayalTitle": "演員詮釋",
+      "portrayal": "崔勝鉉的演繹為角色注入了深度，展現出薩諾斯複雜的性格特徵。他成功地將漫威宇宙中的元素與魷魚遊戲的緊張氛圍融為一體。",
+      
+      "impactTitle": "劇情影響",
+      "impact": "薩諾斯的加入不僅豐富了劇情發展，還為遊戲增添了策略性的層面。玩家需要在遊戲中應對他帶來的獨特挑戰。",
+      
+      "conclusionTitle": "總結",
+      "conclusion": "《魷魚遊戲薩諾斯》通過這個創新的角色設定，成功地將兩個受歡迎的娛樂領域結合在一起，創造出令人難忘的遊戲體驗。"
     }
   }
 }
