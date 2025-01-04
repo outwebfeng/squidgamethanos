@@ -3,11 +3,7 @@
 import { useTranslations } from 'next-intl';
 import YouTubeVideo from '@/components/video/YouTubeVideo';
 
-type Props = {
-  locale: string;
-};
-
-export default function DownloadContent({ locale }: Props) {
+export default function DownloadContent() {
   const t = useTranslations('Download');
 
   const features = t.raw('downloadSection.features') as string[];
