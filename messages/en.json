@@ -12,6 +12,11 @@
       "title": "About Squid Game Thanos - Character Analysis and Story Background",
       "description": "Discover the story behind Squid Game Thanos, portrayed by T.O.P (Choi Seung-hyun). Learn about this unique character's role, impact, and the fusion of dystopian drama with Marvel's influence.",
       "keywords": "Squid Game Thanos, T.O.P, Choi Seung-hyun, Player 230, dystopian drama, character analysis"
+    },
+    "download": {
+      "title": "Download Squid Game Thanos - Get the Ultimate Survival Game",
+      "description": "Download Squid Game Thanos now and experience the thrilling survival challenges. Watch our gameplay video and join millions of players worldwide!",
+      "keywords": ""
     }
   },
   "Navigation": {
@@ -24,7 +29,8 @@
     "testimonials": "Reviews",
     "faq": "FAQ",
     "toggleMenu": "Toggle menu",
-    "about": "About"
+    "about": "About",
+    "download": "Download"
   },
   "NotFound": {
     "title": "404 Not Found",
@@ -182,6 +188,35 @@
       "6-h2": "5. Contact Information",
       "6-p": "If you have any questions about these Terms, please contact us at support@squidgamethanos.com.",
       "last-p": "By using Squid Game Thanos, you acknowledge that you have read and agree to these Terms of Service."
+    }
+  },
+  "Download": {
+    "title": "Download Squid Game Thanos",
+    "subtitle": "Join the Ultimate Survival Challenge",
+    "description": "Experience the intense world of Squid Game Thanos on your mobile device. Watch our gameplay preview and download now to start your journey!",
+    "videoSection": {
+      "title": "Gameplay Preview",
+      "description": "Watch how the game brings together the thrilling elements of Squid Game and strategic survival gameplay."
+    },
+    "downloadSection": {
+      "title": "Ready to Play?",
+      "description": "Download now and join millions of players worldwide in this exciting battle royale experience.",
+      "features": [
+        "Intense multiplayer battles",
+        "Classic Squid Game challenges",
+        "Regular content updates",
+        "Cross-platform gameplay"
+      ],
+      "buttonText": "Download Now",
+      "requirements": {
+        "title": "System Requirements",
+        "items": [
+          "OS: Android 8.0 or later / iOS 13.0 or later",
+          "Storage: 2GB free space",
+          "RAM: 3GB minimum",
+          "Internet: Stable connection required"
+        ]
+      }
     }
   }
 }

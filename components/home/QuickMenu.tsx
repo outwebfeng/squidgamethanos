@@ -16,6 +16,7 @@ export default function QuickMenu() {
     { id: 'features', label: 'features' },
     { id: 'testimonials', label: 'testimonials' },
     { id: 'faq', label: 'faq' },
+    { id: 'download', label: 'download', href: '/download' },
     { id: 'about', label: 'about', href: '/about' },
   ];
 

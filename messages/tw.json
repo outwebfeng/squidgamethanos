@@ -7,6 +7,11 @@
       "title": "Squid Game Thanos - 玩最終生存遊戲",
       "description": "加入Squid Game Thanos，挑戰刺激的生存遊戲。參加以Squid Game Thanos和Marvel的Thanos為靈感的史詩挑戰，現在就來玩，征服排行榜！",
       "keywords": ""
+    },
+    "download": {
+      "title": "下載魷魚遊戲薩諾斯 - 體驗終極生存遊戲",
+      "description": "立即下載魷魚遊戲薩諾斯，體驗刺激的生存挑戰。觀看遊戲預覽視頻，加入全球數百萬玩家的行列！",
+      "keywords": ""
     }
   },
   "Navigation": {
@@ -19,7 +24,8 @@
     "testimonials": "玩家評價",
     "faq": "常見問題",
     "toggleMenu": "切換選單",
-    "about": "關於"
+    "about": "關於",
+    "download": "下載"
   },
   "NotFound": {
     "title": "404 找不到頁面",
@@ -177,6 +183,35 @@
       "6-h2": "5. 聯繫信息",
       "6-p": "如果您對這些條款有任何疑問，請通過 support@squidgamethanos.com 與我們聯繫。",
       "last-p": "通過使用 Squid Game Thanos，您確認已閱讀並同意這些服務條款。"
+    }
+  },
+  "Download": {
+    "title": "下載魷魚遊戲薩諾斯",
+    "subtitle": "加入終極生存挑戰",
+    "description": "在您的移動設備上體驗魷魚遊戲薩諾斯的緊張刺激世界。觀看遊戲預覽並立即下載，開始您的冒險之旅！",
+    "videoSection": {
+      "title": "遊戲預覽",
+      "description": "觀看遊戲如何將魷魚遊戲的刺激元素與策略性生存玩法完美結合。"
+    },
+    "downloadSection": {
+      "title": "準備好開始了嗎？",
+      "description": "立即下載並加入全球數百萬玩家，體驗這款刺激的大逃殺遊戲。",
+      "features": [
+        "激烈的多人對戰",
+        "經典魷魚遊戲挑戰",
+        "定期內容更新",
+        "跨平台遊戲"
+      ],
+      "buttonText": "立即下載",
+      "requirements": {
+        "title": "系統要求",
+        "items": [
+          "作業系統：Android 8.0 以上 / iOS 13.0 以上",
+          "儲存空間：2GB 可用空間",
+          "記憶體：最低 3GB",
+          "網路：需要穩定的網路連接"
+        ]
+      }
     }
   }
 }

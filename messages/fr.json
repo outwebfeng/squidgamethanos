@@ -7,6 +7,11 @@
       "title": "Squid Game Thanos - Jouez au jeu de survie ultime en ligne",
       "description": "Rejoignez Squid Game Thanos pour des défis de survie palpitants. Battez-vous dans des jeux épiques inspirés de Squid Game Thanos et de Thanos de Marvel. Jouez en ligne dès maintenant et dominez le tableau des scores !",
       "keywords": ""
+    },
+    "download": {
+      "title": "Télécharger Squid Game Thanos - Le Jeu de Survie Ultime",
+      "description": "Téléchargez Squid Game Thanos maintenant et vivez des défis de survie palpitants. Regardez notre vidéo de gameplay et rejoignez des millions de joueurs dans le monde !",
+      "keywords": ""
     }
   },
   "Navigation": {
@@ -19,7 +24,8 @@
     "testimonials": "Avis",
     "faq": "FAQ",
     "toggleMenu": "Menu",
-    "about": "À propos"
+    "about": "À propos",
+    "download": "Télécharger"
   },
   "NotFound": {
     "title": "404 Non trouvé",
@@ -177,6 +183,35 @@
       "6-h2": "5. Informations de contact",
       "6-p": "Si vous avez des questions concernant ces conditions, veuillez nous contacter à support@squidgamethanos.com.",
       "last-p": "En utilisant Squid Game Thanos, vous reconnaissez avoir lu et accepté ces Conditions d'utilisation."
+    }
+  },
+  "Download": {
+    "title": "Télécharger Squid Game Thanos",
+    "subtitle": "Rejoignez le Défi de Survie Ultime",
+    "description": "Découvrez l'univers intense de Squid Game Thanos sur votre appareil mobile. Regardez notre aperçu du jeu et téléchargez-le maintenant pour commencer votre voyage !",
+    "videoSection": {
+      "title": "Aperçu du Gameplay",
+      "description": "Découvrez comment le jeu combine les éléments palpitants de Squid Game avec un gameplay de survie stratégique."
+    },
+    "downloadSection": {
+      "title": "Prêt à Jouer ?",
+      "description": "Téléchargez maintenant et rejoignez des millions de joueurs dans le monde dans cette expérience battle royale passionnante.",
+      "features": [
+        "Batailles multijoueurs intenses",
+        "Défis classiques de Squid Game",
+        "Mises à jour régulières du contenu",
+        "Jeu multiplateforme"
+      ],
+      "buttonText": "Télécharger Maintenant",
+      "requirements": {
+        "title": "Configuration Requise",
+        "items": [
+          "OS : Android 8.0 ou supérieur / iOS 13.0 ou supérieur",
+          "Stockage : 2 Go d'espace libre",
+          "RAM : 3 Go minimum",
+          "Internet : Connexion stable requise"
+        ]
+      }
     }
   }
 }
