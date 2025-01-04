@@ -37,5 +37,5 @@ export async function generateMetadata({ params: { locale } }: Props): Promise<M
 
 export default function DownloadPage({ params: { locale } }: Props) {
   unstable_setRequestLocale(locale);
-  return <DownloadContent locale={locale} />;
+  return <DownloadContent />;
 } 
