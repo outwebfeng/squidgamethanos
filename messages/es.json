@@ -26,7 +26,8 @@
     "playNow": "Inicio",
     "toggleMenu": "Alternar menú",
     "about": "Sobre",
-    "download": "Descargar"
+    "download": "Descargar",
+    "blog": "Blog"
   },
   "NotFound": {
     "title": "404 No Encontrado",
@@ -225,18 +226,25 @@
     "content": {
       "introductionTitle": "Introducción al Personaje",
       "introduction": "En la segunda temporada de 'Squid Game', Thanos emerge como un participante notable en los juegos mortales. Interpretado por Choi Seung-hyun, también conocido como T.O.P de la banda de K-pop BigBang, este personaje se diferencia del arquetipo típico de concursante desesperado.",
-      
       "characterizationTitle": "Caracterización y Rol",
       "characterization": "Thanos, designado como Jugador 230, se caracteriza por su cabello morado y comportamiento errático. A diferencia de otros participantes impulsados por la desesperación financiera, Thanos parece deleitarse en el caos de los juegos.",
-      
       "portrayalTitle": "Interpretación del Actor",
       "portrayal": "La interpretación de Thanos por Choi Seung-hyun ha captado una atención significativa. Conocido por su carrera musical como T.O.P, la transición de Choi a la actuación ha sido recibida con elogios de la crítica.",
-      
       "impactTitle": "Impacto en la Narrativa",
       "impact": "La presencia de Thanos introduce una nueva capa de tensión e imprevisibilidad. Sus acciones e interacciones con otros personajes contribuyen a la exploración de la naturaleza humana en circunstancias extremas.",
-      
       "conclusionTitle": "Conclusión",
       "conclusion": "La introducción de Thanos en 'Squid Game' ejemplifica el compromiso de la serie con el desarrollo de personajes complejos y la narración cautivadora. Esta fusión de narrativa distópica con un personaje reminiscente del Titán de Marvel ofrece a los espectadores una experiencia única y provocativa."
     }
+  },
+  "Blog": {
+    "title": "Blog de Squid Game Thanos",
+    "subtitle": "Últimas noticias y guías",
+    "articles": [
+      {
+        "title": "Cómo hacer Ddakji",
+        "slug": "how-to-make-ddakji",
+        "content": "# Cómo hacer Ddakji\n\nDdakji (딱지) es un juego tradicional coreano que ganó popularidad mundial a través de Squid Game. Aquí tienes una guía paso a paso para hacer tu propio ddakji.\n\n## Tutorial en video\n\n:::youtube{videoId=xr6FMZ6xnXg}\n\n## Materiales necesarios\n- Papel de colores (preferiblemente papel grueso)\n- Tijeras\n- Regla\n- Paciencia\n\n## Pasos\n\n1. **Comienza con un papel cuadrado**\n   - Corta el papel en un cuadrado perfecto\n   - El tamaño estándar es de unos 10cm x 10cm\n\n2. **Dobla el papel**\n   - Dobla el cuadrado por la mitad en diagonal para hacer un triángulo\n   - Desdobla y repite con la otra diagonal\n   - Deberías tener pliegues formando una X\n\n3. **Crea la base**\n   - Dobla cada esquina hacia el punto central donde se cruzan las diagonales\n   - Ahora tendrás un cuadrado más pequeño\n\n4. **Pliegues finales**\n   - Dobla dos lados opuestos hacia el centro\n   - Repite con los lados restantes\n   - Mete las esquinas hacia adentro\n\n5. **Practica lanzar**\n   - Sostén tu ddakji en un ángulo ligeramente inclinado\n   - Apunta a golpear el ddakji de tu oponente con un movimiento rápido y agudo\n\n## Consejos para jugar\n- El objetivo es voltear el ddakji de tu oponente\n- La práctica hace al maestro\n- El grosor del papel afectará el rendimiento\n\nRecuerda jugar de manera segura y ¡diviértete!"
+      }
+    ]
   }
 }

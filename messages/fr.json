@@ -26,7 +26,8 @@
     "playNow": "Accueil",
     "toggleMenu": "Menu",
     "about": "À propos",
-    "download": "Télécharger"
+    "download": "Télécharger",
+    "blog": "Blog"
   },
   "NotFound": {
     "title": "404 Non trouvé",
@@ -238,5 +239,16 @@
       "conclusionTitle": "Conclusion",
       "conclusion": "L'introduction de Thanos dans 'Squid Game' illustre l'engagement de la série dans le développement de personnages complexes et une narration captivante. Cette fusion d'un récit dystopique avec un personnage rappelant le Titan de Marvel offre aux spectateurs une expérience unique et provocante."
     }
+  },
+  "Blog": {
+    "title": "Blog de Squid Game Thanos",
+    "subtitle": "Dernières nouvelles et guides",
+    "articles": [
+      {
+        "title": "Comment faire un Ddakji",
+        "slug": "how-to-make-ddakji",
+        "content": "# Comment faire un Ddakji\n\nLe Ddakji (딱지) est un jeu traditionnel coréen qui a gagné en popularité dans le monde entier grâce à Squid Game. Voici un guide étape par étape pour faire votre propre ddakji.\n\n## Tutoriel vidéo\n\n:::youtube{videoId=xr6FMZ6xnXg}\n\n## Matériel nécessaire\n- Papier coloré (de préférence du papier épais)\n- Ciseaux\n- Règle\n- Patience\n\n## Étapes\n\n1. **Commencez avec un papier carré**\n   - Coupez votre papier en un carré parfait\n   - La taille standard est d'environ 10 cm x 10 cm\n\n2. **Pliez le papier**\n   - Pliez le carré en deux diagonalement pour faire un triangle\n   - Dépliez et répétez avec l'autre diagonale\n   - Vous devriez avoir des plis formant un X\n\n3. **Créez la base**\n   - Pliez chaque coin vers le point central où se croisent les diagonales\n   - Vous devriez maintenant avoir un carré plus petit\n\n4. **Plis finaux**\n   - Pliez deux côtés opposés vers le centre\n   - Répétez avec les autres côtés\n   - Rentrez les coins\n\n5. **Pratiquez le lancer**\n   - Tenez votre ddakji à un léger angle\n   - Visez à frapper le ddakji de votre adversaire avec un mouvement rapide et précis\n\n## Conseils pour jouer\n- Le but est de retourner le ddakji de votre adversaire\n- La pratique rend parfait\n- L'épaisseur du papier affectera la performance\n\nN'oubliez pas de jouer en toute sécurité et amusez-vous!"
+      }
+    ]
   }
 }

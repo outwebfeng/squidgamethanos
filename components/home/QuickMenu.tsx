@@ -1,8 +1,8 @@
 'use client';
 
 import { useEffect, useState } from 'react';
-import { useTranslations } from 'next-intl';
 import { usePathname, useRouter } from 'next/navigation';
+import { useTranslations } from 'next-intl';
 
 export default function QuickMenu() {
   const t = useTranslations('Navigation');
@@ -14,11 +14,12 @@ export default function QuickMenu() {
     { id: 'hero', label: 'playNow', href: '/' },
     { id: 'download', label: 'download', href: '/download' },
     { id: 'about', label: 'about', href: '/about' },
+    { id: 'blog', label: 'blog', href: '/blog' },
   ];
 
   const scrollToSection = async (e: React.MouseEvent<HTMLAnchorElement>, id: string, href?: string) => {
     e.preventDefault();
-    
+
     if (href) {
       router.push(href);
       return;

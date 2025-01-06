@@ -26,7 +26,8 @@
     "playNow": "Home",
     "toggleMenu": "Toggle Menu",
     "about": "About",
-    "download": "Download"
+    "download": "Download",
+    "blog": "Blog"
   },
   "NotFound": {
     "title": "404 Not Found",
@@ -234,5 +235,16 @@
       "conclusionTitle": "Conclusion",
       "conclusion": "The introduction of Thanos in 'Squid Game' exemplifies the series' commitment to complex character development and engaging storytelling. This fusion of a dystopian narrative with a character reminiscent of Marvel's Titan offers viewers a unique and thought-provoking experience."
     }
+  },
+  "Blog": {
+    "title": "Squid Game Thanos Blog",
+    "subtitle": "Latest News and Guides",
+    "articles": [
+      {
+        "title": "How to Make Ddakji",
+        "slug": "how-to-make-ddakji",
+        "content": "# How to Make Ddakji\n\nDdakji (딱지) is a traditional Korean game that gained worldwide popularity through Squid Game. Here's a step-by-step guide to make your own ddakji.\n\n## Video Tutorial\n\n:::youtube{videoId=xr6FMZ6xnXg}\n\n## Materials Needed\n- Colored paper (preferably thick paper)\n- Scissors\n- Ruler\n- Patience\n\n## Steps\n\n1. **Start with a square paper**\n   - Cut your paper into a perfect square\n   - Standard size is about 10cm x 10cm\n\n2. **Fold the paper**\n   - Fold the square in half diagonally to make a triangle\n   - Unfold and repeat with the other diagonal\n   - You should have creases forming an X\n\n3. **Create the base**\n   - Fold each corner to the center point where the diagonals meet\n   - You should now have a smaller square\n\n4. **Final folds**\n   - Fold two opposite sides to the middle\n   - Repeat with the remaining sides\n   - Tuck the corners in\n\n5. **Practice throwing**\n   - Hold your ddakji at a slight angle\n   - Aim to hit your opponent's ddakji with a quick, sharp motion\n\n## Tips for Playing\n- The goal is to flip your opponent's ddakji\n- Practice makes perfect\n- Different paper thickness will affect performance\n\nRemember to always play safely and have fun!"
+      }
+    ]
   }
 }
